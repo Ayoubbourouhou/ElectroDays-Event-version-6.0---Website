@@ -1,5 +1,4 @@
 # ElectroDays-Event-version-6.0---Website
-# ElectroDays Event version 6.0 - Website
 
 ## Table of contents
 
@@ -54,7 +53,7 @@
 ## Author
 
 - LinkedIn - [Ayoub Bourouhou](https://www.linkedin.com/in/simo-staali-5b9429249/)
-- Twitter - [@mx7staali](https://twitter.com/ayoubbourouhou)
+- Twitter - [@ayoubbourouhou](https://twitter.com/ayoubbourouhou)
 
 ## Acknowledgments
 
